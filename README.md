@@ -13,7 +13,7 @@ for sentiment inference, stance detection.
 
 Contributing: Please feel free to make *pull requests* or contact me [[contacts]](https://nicolay-r.github.io/)
 
-### General and related studies
+## General and related studies
 * [Natural Language Processing](https://github.com/keon/awesome-nlp#nlp-in-chinese)
     * [Sentiment Analysis](https://github.com/laugustyniak/awesome-sentiment-analysis)
         * [Targeted Setiment Analysis](https://arxiv.org/pdf/1905.03423.pdf)
