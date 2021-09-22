@@ -1,0 +1,1 @@
+# awesome-sentiment-attitude-extraction
