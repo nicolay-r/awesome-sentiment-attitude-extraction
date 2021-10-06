@@ -2,6 +2,10 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<p align="center">
+    <img src="logo.png"/>
+</p>
+
 A curated list of awesome studes related to sentiment attitude extraction,
 in which **attitude** corresponds to the *text position* 
 conveyed by <u>Subject</u> towards other <u>Object</u>
