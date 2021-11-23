@@ -54,6 +54,10 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
  [[github]](https://github.com/thunlp/OpenNRE) 
  [[paper]](https://aclanthology.org/D19-3029.pdf)
     * Is an open-source and extensible toolkit that provides a unified framework to implement neural models for relation extraction (RE) between named entities
+* **DeepPavlov-0.17.0** 
+[[docs]](http://docs.deeppavlov.ai/en/0.17.0/features/models/re.html) 
+[[post]](https://medium.com/deeppavlov/relation-extraction-for-deeppavlov-library-d1f7b57365b3)
+    * Is an entire relation extraction component for DeepPavlov opensource library, proposed by Anastasiia Sedova
 * Others ... [[awesome-relation-extraction]](https://github.com/roomylee/awesome-relation-extraction/blob/master/README.md#frameworks)
 
 ## Papers
