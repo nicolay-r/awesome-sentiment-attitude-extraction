@@ -17,17 +17,9 @@ for sentiment inference, stance detection.
 
 Contributing: Please feel free to make *pull requests* or contact me [[contacts]](https://nicolay-r.github.io/)
 
-## General and related studies
-* [Natural Language Processing](https://github.com/keon/awesome-nlp#nlp-in-chinese)
-    * [Sentiment Analysis](https://github.com/laugustyniak/awesome-sentiment-analysis)
-        * [Targeted Setiment Analysis](https://arxiv.org/pdf/1905.03423.pdf)
-        * [Aspect-based Sentiment Analysis](https://github.com/jiangqn/Aspect-Based-Sentiment-Analysis)
-        * [Hate-speech detection](https://aclanthology.org/W17-1101.pdf)
-    * [Relation Extraction](https://github.com/roomylee/awesome-relation-extraction)
-    * Natural Language Inference
-
 ## Contents
 
+* [Related Studies](#related-studies)
 * [Frameworks](#frameworks)
 * [Papers](#papers)
     * [Language Models](#language-models)
@@ -37,7 +29,17 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
     * [Rule-based Verb-applicable Models](#rule-based-verb-applicable-models)
     * [Subsidiary Studies And Resources](#subsidiary-studies-and-resources)
     * [Miscellaneous](#miscellaneous)
+* [Thesises](#thesises)
 * [Datasets](#datasets)
+
+## Related studies
+* [Natural Language Processing](https://github.com/keon/awesome-nlp#nlp-in-chinese)
+    * [Sentiment Analysis](https://github.com/laugustyniak/awesome-sentiment-analysis)
+        * [Targeted Setiment Analysis](https://arxiv.org/pdf/1905.03423.pdf)
+        * [Aspect-based Sentiment Analysis](https://github.com/jiangqn/Aspect-Based-Sentiment-Analysis)
+        * [Hate-speech detection](https://aclanthology.org/W17-1101.pdf)
+    * [Relation Extraction](https://github.com/roomylee/awesome-relation-extraction)
+    * Natural Language Inference
 
 ## Frameworks
 
@@ -152,6 +154,16 @@ for Targeted Sentiment Analysis and Forecast
     * Josef Ruppenhofer, Jasper Brandes
     * KONVENS 2016
    
+[Back to Top](#contents)
+
+## Thesises
+
+* Mitigation of Gender Bias in Text using Unsupervised Controllable Rewriting [[master-thesis]](https://en.cs.uni-paderborn.de/fileadmin/informatik/fg/css/teaching/theses/brinkmann21-ma-thesis.pdf)
+    * Maja Brinkmann
+    * Paderborn University, 2022
+    	* `Connotation Frames` (2.1.3.) 
+    	* `Connotational Frames and Lexicon` (3.1.1.)
+
 [Back to Top](#contents)
 
 ## Datasets
