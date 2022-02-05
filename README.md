@@ -91,9 +91,14 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 	* ACL/IJCNLP-2021
   * Language Models are Few-Shot Learners 
 	[[paper]](https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
-	* `Prompt designing. FS, 1S by presenting context as **[input,result] x k-times**, where k > 1 (FewShot), k = 1 (OneShot); ZeroShot includes only descriptor of expected result`
+	* `Prompt designing. FS, 1S by presenting context as "[input,result] x k-times", where k > 1 (FewShot), k = 1 (OneShot); ZeroShot includes only descriptor of expected result`
 	* Tom B. Brown, et. al.
-	* NeurIPS 2020
+	* NeurIPS-2020
+  * AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts 
+   	[[paper]](https://aclanthology.org/2020.emnlp-main.346.pdf)
+	* `Considering sentiment analysis task as MLM by predicting [MASK]; prompting input (x) with tokens (p1...pk), selected by gradient search (considering that label has corresponding tokens (prompts))`
+	* Taylor Shin, Yasaman Razeghi, Robert L. Logan IV, Eric Wallace, Sameer Singh
+	* EMNLP-2020
 
 [Back to Top](#contents)
 
