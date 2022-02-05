@@ -23,6 +23,8 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 * [Frameworks](#frameworks)
 * [Papers](#papers)
     * [Language Models](#language-models)
+    	* [Low Resource Tunings](#low-resource-tunings)
+        * [Architectures](#architectures) 
     * [Neural-network based Models](#neural-network-based-models)
     * [Conventional Machine Learning Models](#conventional-machine-learning-models)
     * [CRF-based Models](#crf-based-models)
@@ -65,6 +67,37 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 ## Papers
 
 ### Language Models
+
+#### Low Resource Tunings
+
+  * P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks 
+  	[[paper]](https://arxiv.org/pdf/2110.07602.pdf)
+  	* `Proceeds Prefix-Tuning idea onto multiple layers of LM-model`
+	* Xiao Liu, Kaixuan Ji, Yicheng Fu, Zhengxiao Du, Zhilin Yang, Jie Tang
+	* Dblp Jornal, 2021
+  * The Power of Scale for Parameter-Efficient Prompt Tuning 
+	[[paper]](https://aclanthology.org/2021.emnlp-main.243.pdf)
+	* `Prompt-designing, prompt-tuning comparison studies`
+	* Brian Lester, Rami Al-Rfou, Noah Constant
+	* EMNLP-2021
+  * GPT Understands, Too [[paper]](https://arxiv.org/pdf/2103.10385.pdf) [[code]](https://github.com/THUDM/P-tuning)
+	* `Promt Tuning (p-tuning), i.e. training only promt token embeddings before and after input sequence (x)`
+	* Xiao Liu, Yanan Zheng, Zhengxiao Du, Ming Ding, Yujie Qian, Zhilin Yang, Jie Tang
+	* 2021
+  * Prefix-Tuning: Optimizing Continuous Prompts for Generation 
+	[[paper]](https://aclanthology.org/2021.acl-long.353.pdf)
+	* `Training token prefixes for downstream tasks with frozen LM parameters` 
+	* Xiang Lisa Li, Percy Liang
+	* ACL/IJCNLP-2021
+  * Language Models are Few-Shot Learners 
+	[[paper]](https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
+	* `Prompt designing. FS, 1S by presenting context as **[input,result] x k-times**, where k > 1 (FewShot), k = 1 (OneShot); ZeroShot includes only descriptor of expected result`
+	* Tom B. Brown, et. al.
+	* NeurIPS 2020
+
+[Back to Top](#contents)
+
+#### Architectures
   * BERT-based models (Encoder Reprsentation From Transorfmers) 
   [[papers]](https://github.com/roomylee/awesome-relation-extraction#encoder-representation-from-transformer)
     * `Considering BERT model as classifier`
