@@ -24,6 +24,7 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 * [Papers](#papers)
     * [Language Models](#language-models)
     	* [Low Resource Tunings](#low-resource-tunings)
+    	* [Prompts and Knowledge Examination](#prompts-and-knowledge-examination)
         * [Architectures](#architectures) 
     * [Neural-network based Models](#neural-network-based-models)
     * [Conventional Machine Learning Models](#conventional-machine-learning-models)
@@ -102,6 +103,20 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 
 [Back to Top](#contents)
 
+#### Prompts and Knowledge Examination
+
+  * How Can We Know What Language Models Know? 
+    [[paper]](https://aclanthology.org/2020.tacl-1.28.pdf) 
+    [[code]](https://github.com/jzbjyb/LPAQA)
+	* `Implemented model LPAQA: Language model Prompt And Query Archive`
+	* Zhengbao Jiang, Frank F. Xu, Jun Araki, Graham Neubig
+	* TACL-2020
+  * Language Models as Knowledge Bases? [[paper]](https://aclanthology.org/D19-1250.pdf)
+  	* Fabio Petroni, Tim Rocktäschel, Patrick Lewis, Anton Bakhtin, Yuxiang Wu, Alexander H. Miller, Sebastian Riedel
+	* EMNLP-2019
+
+[Back to Top](#contents)
+
 #### Architectures
   * BERT-based models (Encoder Reprsentation From Transorfmers) 
   [[papers]](https://github.com/roomylee/awesome-relation-extraction#encoder-representation-from-transformer)
@@ -113,7 +128,7 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
     * Joohong Lee, Awesome Relation Extraction  
     
 [Back to Top](#contents)
-	
+
 ### Neural-network based Models 
 * No Permanent Friends or Enemies: Tracking Relationships between Nations from News
    [[paper]](https://arxiv.org/pdf/1904.08950)
