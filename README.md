@@ -113,7 +113,12 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 	* TACL-2020
   * Language Models as Knowledge Bases? [[paper]](https://aclanthology.org/D19-1250.pdf)
   	* Fabio Petroni, Tim Rocktäschel, Patrick Lewis, Anton Bakhtin, Yuxiang Wu, Alexander H. Miller, Sebastian Riedel
-	* EMNLP-2019
+	* EMNLP-2019	
+  * Utilizing BERT for Aspect-Based Sentiment Analysis
+via Constructing Auxiliary Sentence [[paper]](https://aclanthology.org/N19-1035.pdf) 
+	* `Adopting a predefined prompt (QA/NLI formats) as a TextB input part`
+	* Chi Sun, Luyao Huang, Xipeng Qiu
+	* NAACL-HLT 2019
 
 [Back to Top](#contents)
 
