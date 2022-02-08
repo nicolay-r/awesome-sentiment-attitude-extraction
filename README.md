@@ -73,20 +73,25 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 
   * P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks 
   	[[paper]](https://arxiv.org/pdf/2110.07602.pdf)
+	[[code]](https://github.com/THUDM/P-tuning-v2)
   	* `Proceeds Prefix-Tuning idea onto multiple layers of LM-model`
 	* Xiao Liu, Kaixuan Ji, Yicheng Fu, Zhengxiao Du, Zhilin Yang, Jie Tang
 	* Dblp Jornal, 2021
   * The Power of Scale for Parameter-Efficient Prompt Tuning 
 	[[paper]](https://aclanthology.org/2021.emnlp-main.243.pdf)
+	[[code]](https://github.com/google-research/prompt-tuning)
 	* `Prompt-designing, prompt-tuning comparison studies`
 	* Brian Lester, Rami Al-Rfou, Noah Constant
 	* EMNLP-2021
-  * GPT Understands, Too [[paper]](https://arxiv.org/pdf/2103.10385.pdf) [[code]](https://github.com/THUDM/P-tuning)
+  * GPT Understands, Too 
+        [[paper]](https://arxiv.org/pdf/2103.10385.pdf) 
+        [[code]](https://github.com/THUDM/P-tuning)
 	* `Promt Tuning (p-tuning), i.e. training only promt token embeddings before and after input sequence (x)`
 	* Xiao Liu, Yanan Zheng, Zhengxiao Du, Ming Ding, Yujie Qian, Zhilin Yang, Jie Tang
 	* 2021
   * Prefix-Tuning: Optimizing Continuous Prompts for Generation 
 	[[paper]](https://aclanthology.org/2021.acl-long.353.pdf)
+	[[code]](https://github.com/XiangLi1999/PrefixTuning)
 	* `Training token prefixes for downstream tasks with frozen LM parameters` 
 	* Xiang Lisa Li, Percy Liang
 	* ACL/IJCNLP-2021
@@ -97,6 +102,7 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 	* NeurIPS-2020
   * AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts 
    	[[paper]](https://aclanthology.org/2020.emnlp-main.346.pdf)
+	[[code]](https://github.com/ucinlp/autoprompt)
 	* `Considering sentiment analysis task as MLM by predicting [MASK]; prompting input (x) with tokens (p1...pk), selected by gradient search (considering that label has corresponding tokens (prompts))`
 	* Taylor Shin, Yasaman Razeghi, Robert L. Logan IV, Eric Wallace, Sameer Singh
 	* EMNLP-2020
@@ -111,11 +117,15 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 	* `Implemented model LPAQA: Language model Prompt And Query Archive`
 	* Zhengbao Jiang, Frank F. Xu, Jun Araki, Graham Neubig
 	* TACL-2020
-  * Language Models as Knowledge Bases? [[paper]](https://aclanthology.org/D19-1250.pdf)
+  * Language Models as Knowledge Bases? 
+    [[paper]](https://aclanthology.org/D19-1250.pdf)
+    [[code]](https://github.com/facebookresearch/LAMA)
   	* Fabio Petroni, Tim Rocktäschel, Patrick Lewis, Anton Bakhtin, Yuxiang Wu, Alexander H. Miller, Sebastian Riedel
 	* EMNLP-2019	
   * Utilizing BERT for Aspect-Based Sentiment Analysis
-via Constructing Auxiliary Sentence [[paper]](https://aclanthology.org/N19-1035.pdf) 
+via Constructing Auxiliary Sentence 
+    [[paper]](https://aclanthology.org/N19-1035.pdf) 
+    [[code]](https://github.com/HSLCY/ABSA-BERT-pair)
 	* `Adopting a predefined prompt (QA/NLI formats) as a TextB input part`
 	* Chi Sun, Luyao Huang, Xipeng Qiu
 	* NAACL-HLT 2019
