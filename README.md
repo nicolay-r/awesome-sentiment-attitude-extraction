@@ -71,6 +71,12 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 
 #### Low Resource Tunings
 
+  * Black-Box Tuning for Language-Model-as-a-Service
+    [[paper]](https://arxiv.org/pdf/2201.03514.pdf)
+    [[code]](https://github.com/txsun1997/Black-Box-Tuning)
+    * `Non gradient p-tunes, wrapped in API in order to consider large Pre-Trained models (PTMs) adoptation as Service models`
+    * Tianxiang Sun, Yunfan Shao, Hong Qian, Xuanjing Huang, Xipeng Qiu
+    * Arxiv Pre-print, 2022
   * P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks 
   	[[paper]](https://arxiv.org/pdf/2110.07602.pdf)
 	[[code]](https://github.com/THUDM/P-tuning-v2)
