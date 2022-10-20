@@ -23,10 +23,11 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 * [Frameworks](#frameworks)
 * [Papers](#papers)
     * [Language Models](#language-models)
+    	* [Graph-Based](#graph-based)
     	* [Low Resource Tunings](#low-resource-tunings)
     	* [Prompts and Knowledge Examination](#prompts-and-knowledge-examination)
         * [Architectures](#architectures) 
-    * [Neural-network based Models](#neural-network-based-models)
+    * [Conventional neural-network based Models](#conventional-neural-network-based-models)
     * [Conventional Machine Learning Models](#conventional-machine-learning-models)
     * [CRF-based Models](#crf-based-models)
     * [Rule-based Verb-applicable Models](#rule-based-verb-applicable-models)
@@ -39,6 +40,7 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 * [Natural Language Processing](https://github.com/keon/awesome-nlp#nlp-in-chinese)
     * [Sentiment Analysis](https://github.com/laugustyniak/awesome-sentiment-analysis)
         * [Targeted Setiment Analysis](https://arxiv.org/pdf/1905.03423.pdf)
+	* [Structured Sentiment Analysis](https://aclanthology.org/2022.semeval-1.180.pdf) (SemEval Task 10)
         * [Aspect-based Sentiment Analysis](https://github.com/jiangqn/Aspect-Based-Sentiment-Analysis)
         * [Hate-speech detection](https://aclanthology.org/W17-1101.pdf)
     * [Relation Extraction](https://github.com/roomylee/awesome-relation-extraction)
@@ -68,6 +70,15 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 ## Papers
 
 ### Language Models
+
+#### Graph-Based
+  * Comparing `Graph-` and `Seq2Seq-` based Models Highlights Difficulty in Structured Sentiment Analysis
+  [[paper]](https://aclanthology.org/2022.semeval-1.188.pdf)
+  [[code]](https://github.com/hitachi-nlp/graph_parser)
+  	* Gaku Morio, Hiroaki Ozaki, Atsuki Yamaguchi, and Yasuhiro Sogawa
+	* ACL-Workshop, 2022
+	
+[Back to Top](#contents)
 
 #### Low Resource Tunings
 
@@ -147,10 +158,20 @@ via Constructing Auxiliary Sentence
   [[papers]](https://github.com/roomylee/awesome-relation-extraction#decoder-representation-from-transformer)
     * `Considering GPT model competed for classification task`
     * Joohong Lee, Awesome Relation Extraction  
+  * Comparing `Graph-` and `Seq2Seq-` based Models Highlights Difficulty in Structured Sentiment Analysis
+  [[paper]](https://aclanthology.org/2022.semeval-1.188.pdf)
+  [[code]](https://github.com/hitachi-nlp/graph_parser)
+  	* `T5 and mT5 finetunnning`, i.e. 
+	[Text-To-Text Transfer Transoformer](https://github.com/google-research/text-to-text-transfer-transformer) application
+  	* Gaku Morio, Hiroaki Ozaki, Atsuki Yamaguchi, and Yasuhiro Sogawa
+	* ACL-Workshop, 2022
     
 [Back to Top](#contents)
 
-### Neural-network based Models 
+### Conventional Neural-network based Models 
+
+In this section we consider neural-network models based on convolutional, recurrent, recursive architectures.
+
 * No Permanent Friends or Enemies: Tracking Relationships between Nations from News
    [[paper]](https://arxiv.org/pdf/1904.08950)
     * Xiaochuang Han, Eunsol Choi, Chenhao Tan
