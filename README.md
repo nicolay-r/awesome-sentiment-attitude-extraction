@@ -40,7 +40,7 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 * [Natural Language Processing](https://github.com/keon/awesome-nlp#nlp-in-chinese)
     * [Sentiment Analysis](https://github.com/laugustyniak/awesome-sentiment-analysis)
         * [Targeted Setiment Analysis](https://arxiv.org/pdf/1905.03423.pdf)
-	* [Structured Sentiment Analysis](https://aclanthology.org/2022.semeval-1.180.pdf) (SemEval Task 10)
+        * [Structured Sentiment Analysis](https://aclanthology.org/2022.semeval-1.180.pdf) (SemEval Task 10)
         * [Aspect-based Sentiment Analysis](https://github.com/jiangqn/Aspect-Based-Sentiment-Analysis)
         * [Hate-speech detection](https://aclanthology.org/W17-1101.pdf)
     * [Relation Extraction](https://github.com/roomylee/awesome-relation-extraction)
