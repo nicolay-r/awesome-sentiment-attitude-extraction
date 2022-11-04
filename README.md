@@ -21,6 +21,7 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 
 * [Related Studies](#related-studies)
 * [Frameworks](#frameworks)
+* [Annotation Schemas](#annotation-schemas)
 * [Papers](#papers)
     * [Language Models](#language-models)
     	* [Graph-Based](#graph-based)
@@ -66,6 +67,17 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 [[post]](https://medium.com/deeppavlov/relation-extraction-for-deeppavlov-library-d1f7b57365b3)
     * Is an entire relation extraction component for DeepPavlov opensource library, proposed by Anastasiia Sedova
 * Others ... [[awesome-relation-extraction]](https://github.com/roomylee/awesome-relation-extraction/blob/master/README.md#frameworks)
+
+[Back to Top](#contents)
+
+## Annotation Schemas
+
+* **OpinionML** [[paper]](https://www.researchgate.net/publication/332423185_OpinionML-Opinion_Markup_Language_for_Sentiment_Representation)
+* **SentiML** [[paper]](https://dl.acm.org/doi/10.1145/2517978.2517994)
+* **OpinionMiningML** [[paper]](https://d1wqtxts1xzle7.cloudfront.net/47692116/OpinionMining-ML20160801-28120-mzgsge-libre.pdf?1470049517=&response-content-disposition=inline%3B+filename%3DOpinionMining_ML.pdf&Expires=1667567660&Signature=L~lOd1CoiQGRU8X28xfKiEJbXXThItxUEpOx9uSS62nUhP9MBaR-1-XCVnKk1brFLUq5X1ooMkj0MCdGdnEPHwl7mLJLFmMbko9od207~EYvsbPyvPl9N6R9ceQMj3wH-W2A6EEigBZ8hTPxbAV6HWPOgFzIPOlyBS20-0o6SMTdtEFny714EtoVfS-E941qliBJyHdcOYVzT-uf4MHrceBHhKvfpwe0xDdLDC4QLVbbYbfDuWgbak1QEm7RKwQEITGeYE8zK5~1YIJT~MPvlP7aSbyPOjAfMpXbh2QCkBJC2KSY9q19pQOQz4uGtWsXQFbSRSLFxDFCK00ynuBccw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+* **EmotionML** [[paper]](https://www.researchgate.net/publication/221622141_EmotionML_-_An_Upcoming_Standard_for_Representing_Emotions_and_Related_States)
+
+[Back to Top](#contents)
 
 ## Papers
 
