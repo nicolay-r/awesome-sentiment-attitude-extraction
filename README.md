@@ -49,6 +49,8 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 
 ## Frameworks
 
+* **AREnets** [[github]](https://github.com/nicolay-r/AREnets)
+    * is an OpenNRE like project, but the kernel based on tensorflow library, with implementation of neural networks on top of it, designed for Attitude and Relation Extraction tasks.
 * **AREkit** [[github]](https://github.com/nicolay-r/AREkit) [[research-applicable-paper]](https://arxiv.org/pdf/2006.13730.pdf)
     * Is an open-source and extensible toolkit focused on data preparation for 
     document-level relation extraction organization. 
