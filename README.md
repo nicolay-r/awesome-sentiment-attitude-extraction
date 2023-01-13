@@ -23,6 +23,7 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 * [Frameworks](#frameworks)
 * [Annotation Schemas](#annotation-schemas)
 * [Papers](#papers)
+    * [Conversational Systems](#conversational-systems)
     * [Language Models](#language-models)
     	* [Graph-Based](#graph-based)
     	* [Low Resource Tunings](#low-resource-tunings)
@@ -46,11 +47,14 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
         * [Hate-speech detection](https://aclanthology.org/W17-1101.pdf)
     * [Relation Extraction](https://github.com/roomylee/awesome-relation-extraction)
     * Natural Language Inference
+    * Stance Detection
 
 ## Frameworks
-
+* **ChatGPT** [[site]](https://openai.com/blog/chatgpt/)
+    * Conversation system that is trained to follow the instruction in a prompt and provide a detailed response; 
+      examples on how it could be adapted reviewed in the following [work](https://arxiv.org/pdf/2212.14548.pdf).
 * **AREnets** [[github]](https://github.com/nicolay-r/AREnets)
-    * is an OpenNRE like project, but the kernel based on tensorflow library, with implementation of neural networks on top of it, designed for Attitude and Relation Extraction tasks.
+    * Is an OpenNRE like project, but the kernel based on tensorflow library, with implementation of neural networks on top of it, designed for Attitude and Relation Extraction tasks.
 * **AREkit** [[github]](https://github.com/nicolay-r/AREkit) [[research-applicable-paper]](https://arxiv.org/pdf/2006.13730.pdf)
     * Is an open-source and extensible toolkit focused on data preparation for 
     document-level relation extraction organization. 
@@ -63,11 +67,11 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 * **OpenNRE**
  [[github]](https://github.com/thunlp/OpenNRE) 
  [[paper]](https://aclanthology.org/D19-3029.pdf)
-    * Is an open-source and extensible toolkit that provides a unified framework to implement neural models for relation extraction (RE) between named entities
+    * Is an open-source and extensible toolkit that provides a unified framework to implement neural models for relation extraction (RE) between named entities.
 * **DeepPavlov-0.17.0** 
 [[docs]](http://docs.deeppavlov.ai/en/0.17.0/features/models/re.html) 
 [[post]](https://medium.com/deeppavlov/relation-extraction-for-deeppavlov-library-d1f7b57365b3)
-    * Is an entire relation extraction component for DeepPavlov opensource library, proposed by Anastasiia Sedova
+    * Is an entire relation extraction component for DeepPavlov opensource library, proposed by Anastasiia Sedova.
 * Others ... [[awesome-relation-extraction]](https://github.com/roomylee/awesome-relation-extraction/blob/master/README.md#frameworks)
 
 [Back to Top](#contents)
@@ -83,14 +87,27 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 
 ## Papers
 
+### Conversational Systems
+  > Using [Language Models](#language-models) in a combination with promts/questions
+
+  * How would Stance Detection Techniques Evolve after the Launch of ChatGPT?
+  [[paper]](https://arxiv.org/pdf/2212.14548.pdf)
+  	* Bowen Zhang, Daijun Ding, Liwen Jing
+	* Harvard, December, 2022
+
 ### Language Models
 
 #### Graph-Based
+
   * Comparing `Graph-` and `Seq2Seq-` based Models Highlights Difficulty in Structured Sentiment Analysis
   [[paper]](https://aclanthology.org/2022.semeval-1.188.pdf)
   [[code]](https://github.com/hitachi-nlp/graph_parser)
   	* Gaku Morio, Hiroaki Ozaki, Atsuki Yamaguchi, and Yasuhiro Sogawa
 	* ACL-Workshop, 2022
+  * Enhancing Zero-shot and Few-shot Stance Detection with Commonsense Knowledge Graph
+  [[paper]](https://aclanthology.org/2021.findings-acl.278.pdf)
+  	* Rui Liu, Zheng Lin, Yutong Tan1, Weiping Wang
+	* ACL-IJCNLP 2021
 	
 [Back to Top](#contents)
 
