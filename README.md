@@ -53,7 +53,9 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 * **ChatGPT** [[site]](https://openai.com/blog/chatgpt/)
     * Conversation system that is trained to follow the instruction in a prompt and provide a detailed response; 
       examples on how it could be adapted reviewed in the following [work](https://arxiv.org/pdf/2212.14548.pdf).
-* **arekit-prompt-sampler** [[github]](https://github.com/nicolay-r/arekit-prompt-sampler)
+* **arekit-prompt-sampler** 
+  [[github]](https://github.com/nicolay-r/arekit-prompt-sampler) 
+  [[prompt-engeneering-guide]](https://github.com/dair-ai/Prompt-Engineering-Guide)
     * Sentiment Attitude Extraction sources sampling with language 
     transferring and prompting API for further ChatGPT-alike model requests, powered by [AREkit](https://github.com/nicolay-r/AREkit).
 * **ARElight** [[github]](https://github.com/nicolay-r/ARElight)
