@@ -101,7 +101,7 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 	* Harvard, Februrary, 2023
   * How would Stance Detection Techniques Evolve after the Launch of ChatGPT?
   [[paper]](https://arxiv.org/pdf/2212.14548.pdf)
-  	* `Introducing prompt templater which allows to reach state-of-the art with **zero-shot learning**!`
+  	* `Introducing prompt templater which allows to reach state-of-the art with zero-shot learning!`
   	* Bowen Zhang, Daijun Ding, Liwen Jing
 	* Harvard, December, 2022
 	
