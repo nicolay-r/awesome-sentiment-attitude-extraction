@@ -53,6 +53,11 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 * **ChatGPT** [[site]](https://openai.com/blog/chatgpt/)
     * Conversation system that is trained to follow the instruction in a prompt and provide a detailed response; 
       examples on how it could be adapted reviewed in the following [work](https://arxiv.org/pdf/2212.14548.pdf).
+* **arekit-prompt-sampler** [[github]](https://github.com/nicolay-r/arekit-prompt-sampler)
+    * Sentiment Attitude Extraction sources sampling with language 
+    transferring and prompting API for further ChatGPT-alike model requests, powered by [AREkit](https://github.com/nicolay-r/AREkit).
+* **ARElight** [[github]](https://github.com/nicolay-r/ARElight)
+    * [AREkit-based](https://github.com/nicolay-r/AREkit) application for a granular view onto sentiments between entities in a mass-media texts written in Russian
 * **AREnets** [[github]](https://github.com/nicolay-r/AREnets)
     * Is an OpenNRE like project, but the kernel based on tensorflow library, with implementation of neural networks on top of it, designed for Attitude and Relation Extraction tasks.
 * **AREkit** [[github]](https://github.com/nicolay-r/AREkit) [[research-applicable-paper]](https://arxiv.org/pdf/2006.13730.pdf)
