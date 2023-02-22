@@ -53,6 +53,11 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 * **ChatGPT** [[site]](https://openai.com/blog/chatgpt/)
     * Conversation system that is trained to follow the instruction in a prompt and provide a detailed response; 
       examples on how it could be adapted reviewed in the following [work](https://arxiv.org/pdf/2212.14548.pdf).
+* **arekit-prompt-sampler** [[github]](https://github.com/nicolay-r/arekit-prompt-sampler)
+    * Sentiment Attitude Extraction sources sampling with language 
+    transferring and prompting API for further ChatGPT-alike model requests, powered by [AREkit](https://github.com/nicolay-r/AREkit).
+* **ARElight** [[github]](https://github.com/nicolay-r/ARElight)
+    * [AREkit-based](https://github.com/nicolay-r/AREkit) application for a granular view onto sentiments between entities in a mass-media texts written in Russian
 * **AREnets** [[github]](https://github.com/nicolay-r/AREnets)
     * Is an OpenNRE like project, but the kernel based on tensorflow library, with implementation of neural networks on top of it, designed for Attitude and Relation Extraction tasks.
 * **AREkit** [[github]](https://github.com/nicolay-r/AREkit) [[research-applicable-paper]](https://arxiv.org/pdf/2006.13730.pdf)
@@ -89,11 +94,18 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 
 ### Conversational Systems
   > Using [Language Models](#language-models) in a combination with promts/questions
-
+  
+  * Is ChatGPT better than Human Annotators? Potential and Limitations of ChatGPT in Explaining Implicit Hate Speech 
+  [[paper]](https://arxiv.org/pdf/2302.07736.pdf)
+	* Huang Fan, Kwak Haewoon, An Jisun
+	* Harvard, Februrary, 2023
   * How would Stance Detection Techniques Evolve after the Launch of ChatGPT?
   [[paper]](https://arxiv.org/pdf/2212.14548.pdf)
+  	* `Introducing prompt templater which allows to reach state-of-the art with zero-shot learning!`
   	* Bowen Zhang, Daijun Ding, Liwen Jing
 	* Harvard, December, 2022
+	
+[Back to Top](#contents)
 
 ### Language Models
 
