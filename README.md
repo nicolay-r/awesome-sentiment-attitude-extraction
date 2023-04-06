@@ -234,6 +234,10 @@ In this section we consider neural-network models based on convolutional, recurr
 [[paper]](https://aclanthology.org/P16-1032.pdf)
 	* Eunsol Choi, Hannah Rashkin, Luke Zettlemoyer, Yejin Choi
 	* ACL-2016
+* Sentiment Analysis: Capturing Favorability Using Natural Language Processing [[paper]](https://dl.acm.org/doi/pdf/10.1145/945645.945658)
+	* `it is originally called favorability analysis, semantic establishment between sentiment and subject`
+	* Tetsuya Nasukawa, Jeonghee Yi 
+	* K-CAP-2003 (ACM)
 	
 ### CRF-based Models
 * Open Domain Targeted Sentiment 
