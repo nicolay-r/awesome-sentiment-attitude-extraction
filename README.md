@@ -47,7 +47,7 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
         * [Hate-speech detection](https://aclanthology.org/W17-1101.pdf)
     * [Relation Extraction](https://github.com/roomylee/awesome-relation-extraction)
     * Natural Language Inference
-    * Stance Detection
+    * [Stance Detection](https://aclanthology.org/N12-1072.pdf)
 
 ## Frameworks
 * **ChatGPT** [[site]](https://openai.com/blog/chatgpt/)
