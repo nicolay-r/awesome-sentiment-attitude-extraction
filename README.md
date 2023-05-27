@@ -96,7 +96,12 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 
 ### Conversational Systems
   > Using [Language Models](#language-models) in a combination with promts/questions
-  
+> 
+   * Sentiment Analysis in the Era of Large Language Models: A Reality Check
+    [[paper]](https://arxiv.org/pdf/2305.15005.pdf)
+        * `application of the LLM and based on the latter ChatGPT for the variety set of sentiment analysis problems`
+        * Wenxuan Zhang, Yue Deng, Bing Liu, Sinno Jialin Pan, Lidong Bing 
+        * arXiv, 24 May 2023
   * Is ChatGPT better than Human Annotators? Potential and Limitations of ChatGPT in Explaining Implicit Hate Speech 
   [[paper]](https://arxiv.org/pdf/2302.07736.pdf)
 	* Huang Fan, Kwak Haewoon, An Jisun
@@ -173,6 +178,11 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 
 #### Prompts and Knowledge Examination
 
+  * Sentiment Analysis in the Era of Large Language Models: A Reality Check
+    [[paper]](https://arxiv.org/pdf/2305.15005.pdf)
+    * `duplicated from the one in conversational systems section`
+    * Wenxuan Zhang, Yue Deng, Bing Liu, Sinno Jialin Pan, Lidong Bing
+    * arXiv, 24 May 2023
   * How Can We Know What Language Models Know? 
     [[paper]](https://aclanthology.org/2020.tacl-1.28.pdf) 
     [[code]](https://github.com/jzbjyb/LPAQA)
