@@ -277,6 +277,10 @@ In this section we consider neural-network models based on convolutional, recurr
 [Back to Top](#contents)
 
 ### Subsidiary Studies and Resources
+* RIVETER Measuring Power and Social Dynamics Between Entities
+  [[paper]](https://aclanthology.org/2023.acl-demo.36.pdf)
+    * Maria Antoniak, Anjalie Field, Jimin Mun, Melanie Walsh, Lauren F. Klein, Maarten Sap
+    * ACL-2023
 * Multilingual Connotation Frames: A Case Study on Social Media
 for Targeted Sentiment Analysis and Forecast 
     [[paper]](https://aclanthology.org/P17-2073.pdf)
