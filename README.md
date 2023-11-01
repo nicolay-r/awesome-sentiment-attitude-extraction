@@ -23,8 +23,8 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 * [Frameworks](#frameworks)
 * [Annotation Schemas](#annotation-schemas)
 * [Papers](#papers)
-    * [Conversational Systems](#conversational-systems)
     * [Language Models](#language-models)
+        * [Conversational Systems](#conversational-systems)
     	* [Graph-Based](#graph-based)
     	* [Low Resource Tunings](#low-resource-tunings)
     	* [Prompts and Knowledge Examination](#prompts-and-knowledge-examination)
@@ -50,6 +50,10 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
     * [Stance Detection](https://aclanthology.org/N12-1072.pdf)
 
 ## Frameworks
+* **THOR-ISA** [[github]](https://github.com/scofield7419/THOR-ISA)
+    * Propt-based framework for setiment Analysis that based on Chain-of-Though concept for obtaining the result sentiment class out of the LLM system.	
+* **OpenPrompt** [[github]](https://github.com/thunlp/OpenPrompt)
+    * Enhanced tool for automatic completion of the prompt via the provided resources.	
 * **ChatGPT** [[site]](https://openai.com/blog/chatgpt/)
     * Conversation system that is trained to follow the instruction in a prompt and provide a detailed response; 
       examples on how it could be adapted reviewed in the following [work](https://arxiv.org/pdf/2212.14548.pdf).
@@ -84,7 +88,6 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 [Back to Top](#contents)
 
 ## Annotation Schemas
-
 * **OpinionML** [[paper]](https://www.researchgate.net/publication/332423185_OpinionML-Opinion_Markup_Language_for_Sentiment_Representation)
 * **SentiML** [[paper]](https://dl.acm.org/doi/10.1145/2517978.2517994)
 * **OpinionMiningML** [[paper]](https://d1wqtxts1xzle7.cloudfront.net/47692116/OpinionMining-ML20160801-28120-mzgsge-libre.pdf?1470049517=&response-content-disposition=inline%3B+filename%3DOpinionMining_ML.pdf&Expires=1667567660&Signature=L~lOd1CoiQGRU8X28xfKiEJbXXThItxUEpOx9uSS62nUhP9MBaR-1-XCVnKk1brFLUq5X1ooMkj0MCdGdnEPHwl7mLJLFmMbko9od207~EYvsbPyvPl9N6R9ceQMj3wH-W2A6EEigBZ8hTPxbAV6HWPOgFzIPOlyBS20-0o6SMTdtEFny714EtoVfS-E941qliBJyHdcOYVzT-uf4MHrceBHhKvfpwe0xDdLDC4QLVbbYbfDuWgbak1QEm7RKwQEITGeYE8zK5~1YIJT~MPvlP7aSbyPOjAfMpXbh2QCkBJC2KSY9q19pQOQz4uGtWsXQFbSRSLFxDFCK00ynuBccw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
@@ -94,9 +97,19 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 
 ## Papers
 
-### Conversational Systems
-  > Using [Language Models](#language-models) in a combination with promts/questions
-> 
+	
+[Back to Top](#contents)
+
+### Language Models
+
+#### Chain-of-Thougts
+* Reasoning Implicit Sentiment with Chain-of-Thought Prompting [[paper]](https://aclanthology.org/2023.acl-short.101.pdf) [[code]](https://github.com/scofield7419/THOR-ISA)
+	* `Sequence of 3 prompts for conversational system, complemented by tge system responses. Reason is to cope with hallucination` [similar-studies](https://openreview.net/pdf?id=1PL1NIMMrw)  	
+	* Hao Fei, Bobo Li, Qian Liu, Lidong Bing, Fei Li, Tat-Seng Chua
+	* ACL 2023, Short Papers
+
+#### Conversational Systems
+  > Using [Language Models](#language-models) (usually LARGE-sized) in a combination with promts/questions 
    * Sentiment Analysis in the Era of Large Language Models: A Reality Check
     [[paper]](https://arxiv.org/pdf/2305.15005.pdf)
         * `application of the LLM and based on the latter ChatGPT for the variety set of sentiment analysis problems`
@@ -111,10 +124,6 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
   	* `Introducing prompt templater which allows to reach state-of-the art with zero-shot learning!`
   	* Bowen Zhang, Daijun Ding, Liwen Jing
 	* Harvard, December, 2022
-	
-[Back to Top](#contents)
-
-### Language Models
 
 #### Graph-Based
 
