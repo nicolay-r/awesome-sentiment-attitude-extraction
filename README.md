@@ -46,8 +46,8 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
         * [Aspect-based Sentiment Analysis](https://github.com/jiangqn/Aspect-Based-Sentiment-Analysis)
         * [Hate-speech detection](https://aclanthology.org/W17-1101.pdf)
     * [Relation Extraction](https://github.com/roomylee/awesome-relation-extraction)
+    * [Stance Detection](https://github.com/sumeetkr/AwesomeStanceLearning)
     * Natural Language Inference
-    * [Stance Detection](https://aclanthology.org/N12-1072.pdf)
 
 ## Frameworks
 * **THOR-ISA** [[github]](https://github.com/scofield7419/THOR-ISA)
