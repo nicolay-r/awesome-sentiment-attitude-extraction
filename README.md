@@ -47,8 +47,7 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
         * [Hate-speech detection](https://aclanthology.org/W17-1101.pdf)
     * [Relation Extraction](https://github.com/roomylee/awesome-relation-extraction)
     * [Stance Detection](https://github.com/sumeetkr/AwesomeStanceLearning)
-    * Natural Language Inference
-
+  
 ## Frameworks
 * **THOR-ISA** [[github]](https://github.com/scofield7419/THOR-ISA)
     * Propt-based framework for setiment Analysis that based on Chain-of-Though concept for obtaining the result sentiment class out of the LLM system.	
@@ -101,6 +100,7 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 [Back to Top](#contents)
 
 ### Language Models
+> [Awesome-LLM list](https://github.com/Hannibal046/Awesome-LLM)
 
 #### Chain-of-Thougts
 * Reasoning Implicit Sentiment with Chain-of-Thought Prompting [[paper]](https://aclanthology.org/2023.acl-short.101.pdf) [[code]](https://github.com/scofield7419/THOR-ISA)
