@@ -141,6 +141,11 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 
 #### Low Resource Tunings
 
+  * Zero-shot Sentiment Analysis in Low-Resource Languages Using a Multilingual Sentiment Lexicon
+    [[paper]](https://arxiv.org/pdf/2402.02113.pdf)
+    [[code]](https://github.com/fajri91/ZeroShotMultilingualSentiment)
+    * Fajri Koto, Tilman Beck, Zeerak Talat, Iryna Gurevych, Timothy Baldwin
+    * NAACL-2024
   * Black-Box Tuning for Language-Model-as-a-Service
     [[paper]](https://arxiv.org/pdf/2201.03514.pdf)
     [[code]](https://github.com/txsun1997/Black-Box-Tuning)
