@@ -23,8 +23,10 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 * [Frameworks](#frameworks)
 * [Annotation Schemas](#annotation-schemas)
 * [Papers](#papers)
+    * [Large Language Models](#large-language-models)
+      * [Chain-of-Thought](#chain-of-thought)
+      * [Conversational Systems](#conversational-systems)
     * [Language Models](#language-models)
-        * [Conversational Systems](#conversational-systems)
     	* [Graph-Based](#graph-based)
     	* [Low Resource Tunings](#low-resource-tunings)
     	* [Prompts and Knowledge Examination](#prompts-and-knowledge-examination)
@@ -49,6 +51,8 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
     * [Stance Detection](https://github.com/sumeetkr/AwesomeStanceLearning)
   
 ## Frameworks
+* **FaiMA** [[github]](https://github.com/SupritYoung/FaiMA)
+    * Framework that integrates graph-based models and linguistics, with a core feature aimed at in-context learning for multi-domain SA.
 * **THOR-ISA** [[github]](https://github.com/scofield7419/THOR-ISA)
     * Propt-based framework for setiment Analysis that based on Chain-of-Though concept for obtaining the result sentiment class out of the LLM system.	
 * **OpenPrompt** [[github]](https://github.com/thunlp/OpenPrompt)
@@ -99,14 +103,34 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 	
 [Back to Top](#contents)
 
-### Language Models
+### Large Language Models
 > [Awesome-LLM list](https://github.com/Hannibal046/Awesome-LLM)
 
-#### Chain-of-Thougts
+#### Chain-of-Thought
+* [FaiMA](https://github.com/SupritYoung/FaiMA): Feature-aware In-context Learning for Multi-domain
+Aspect-based Sentiment Analysis 
+[[paper]](https://arxiv.org/pdf/2403.01063.pdf)
+[[code]](https://github.com/SupritYoung/FaiMA)
+    * [Framework](https://github.com/SupritYoung/FaiMA) `that integrates` [graph-based models](#graph-based)` and lingustics, with core feature aimed at in-context-learning feature for multi-domain SA; The framework is designed for multidomain datasets; 
+      Due to graphs and pairs-generation module, it may find major contribution in **attitude-based** sentiment extraction and target-oriented SA.`
+    * Songhua Yang, Xinke Jiang, Hanjie Zhao, Wenxuan Zeng, Hongde Liu, Yuxiang Jia
+    * **LREC-COLING 2024, Long Paper**; Submitted 2 Mar. 2024.
+* Aspect-Based Sentiment Analysis with Explicit Sentiment Augmentations
+  [[paper]](https://arxiv.org/abs/2312.10961)
+  [[harvard-paper]](https://ui.adsabs.harvard.edu/abs/2023arXiv231210961O/abstract)
+    * `integrates explicit sentiment augmentations, acted as <<clues>> that augment LLM input context`
+    * Jihong Ouyang, Zhiyao Yang, Silong Liang, Bing Wang, Yimeng Wang, Ximing Li
+    * Arxiv Pre-print, submitted: 18 Dec. 2024
+* Sentiment Analysis through LLM Negotiations 
+ [[paper]](https://arxiv.org/abs/2311.01876) 
+ [[open-review]](https://openreview.net/pdf?id=1VlIXyAw04k)
+    * `generator-discriminator of negotiating the result label`
+    * Xiaofei Sun, Xiaoya Li, Shengyu Zhang, Shuhe Wang, Fei Wu, Jiwei Li, Tianwei Zhang, Guoyin Wang
+    * Arxiv Pre-print, submitted: 2024
 * Reasoning Implicit Sentiment with Chain-of-Thought Prompting [[paper]](https://aclanthology.org/2023.acl-short.101.pdf) [[code]](https://github.com/scofield7419/THOR-ISA)
 	* `Sequence of 3 prompts for conversational system, complemented by tge system responses. Reason is to cope with hallucination` [similar-studies](https://openreview.net/pdf?id=1PL1NIMMrw)  	
 	* Hao Fei, Bobo Li, Qian Liu, Lidong Bing, Fei Li, Tat-Seng Chua
-	* ACL 2023, Short Papers
+	* **ACL 2023, Short Papers**
 
 #### Conversational Systems
   > Using [Language Models](#language-models) (usually LARGE-sized) in a combination with promts/questions 
@@ -124,6 +148,9 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
   	* `Introducing prompt templater which allows to reach state-of-the art with zero-shot learning!`
   	* Bowen Zhang, Daijun Ding, Liwen Jing
 	* Harvard, December, 2022
+
+### Language Models
+> [Awesome-LLM list](https://github.com/Hannibal046/Awesome-LLM)
 
 #### Graph-Based
 
