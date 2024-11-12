@@ -51,6 +51,8 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
     * [Stance Detection](https://github.com/sumeetkr/AwesomeStanceLearning)
   
 ## Frameworks
+* **bulk-chain** [[github]](https://github.com/nicolay-r/bulk-chain) 
+    * Framework that exploits Chain-of-Thought concept and provides minimalistic solution for zero-shot inferences. For example, you can exploit the concept of `aspect-opininon-reason` chain from  [THOR-ISA](https://github.com/scofield7419/THOR-ISA) to adapt it for attitude extraction.
 * **FaiMA** [[github]](https://github.com/SupritYoung/FaiMA)
     * Framework that integrates graph-based models and linguistics, with a core feature aimed at in-context learning for multi-domain SA.
 * **THOR-ISA** [[github]](https://github.com/scofield7419/THOR-ISA)
