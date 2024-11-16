@@ -112,11 +112,19 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 > [Awesome-LLM list](https://github.com/Hannibal046/Awesome-LLM)
 
 #### Fact-Checking Adaptation
+> **NOTE:** Requires / Assumes the presence of factual knowledgebase
 
 * Consistent Document-Level Relation Extraction via Counterfactuals [[paper]](https://www.arxiv.org/abs/2407.06699) [[code]](https://github.com/amodaresi/CovEReD)
-    * `The key concept is to use factual relations for fictional context construction and LLM validation`
+    * `Concept: use factual relations for fictional context construction and LLM validation`
     * Ali Modarressi, Abdullatif Köksal, Hinrich Schütze
     * **EMNLP-2024, 15th of October 2024**
+* Learning to Refine with Fine-Grained Natural Language Feedback [[paper]](https://aclanthology.org/2024.findings-emnlp.716.pdf) [[code]](https://github.com/ManyaWadhwa/DCR)
+    * `Concept: When treating attitudes as facts, we can adopt zero-shot LLM-based fact cheking as: **Detect**-**Critique**-**Refine**`
+    * Manya Wadhwa, Xinyu Zhao, Junyi Jessy, Li Greg Durrett
+    * **EMNLP-2024**
+* Zero-Shot Fact Verification via Natural Logic and Large Language Models [[paper]](https://aclanthology.org/2024.findings-emnlp.991.pdf) [[code]](https://github.com/marekstrong/Zero-NatVer)
+    * `Concept: Use natural logic  for proving the fact of attitude presence in a zero-shot learning mode (see code)`
+    * **EMNLP-2024**
 
 #### Chain-of-Thought
 * [FaiMA](https://github.com/SupritYoung/FaiMA): Feature-aware In-context Learning for Multi-domain
