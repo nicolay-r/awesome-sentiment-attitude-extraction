@@ -24,6 +24,7 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 * [Annotation Schemas](#annotation-schemas)
 * [Papers](#papers)
     * [Large Language Models](#large-language-models)
+      * [Fact-Checking Adaptation](#fact-checking-adaptation)
       * [Chain-of-Thought](#chain-of-thought)
       * [Conversational Systems](#conversational-systems)
     * [Language Models](#language-models)
@@ -109,6 +110,13 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 
 ### Large Language Models
 > [Awesome-LLM list](https://github.com/Hannibal046/Awesome-LLM)
+
+#### Fact-Checking Adaptation
+
+* Consistent Document-Level Relation Extraction via Counterfactuals [[paper]](https://www.arxiv.org/abs/2407.06699) [[code]](https://github.com/amodaresi/CovEReD)
+    * `The key concept is to use factual relations for fictional context construction and LLM validation`
+    * Ali Modarressi, Abdullatif Köksal, Hinrich Schütze
+    * **EMNLP-2024, 15th of October 2024**
 
 #### Chain-of-Thought
 * [FaiMA](https://github.com/SupritYoung/FaiMA): Feature-aware In-context Learning for Multi-domain
