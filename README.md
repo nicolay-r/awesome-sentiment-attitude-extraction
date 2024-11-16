@@ -55,8 +55,10 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
     * Framework that exploits Chain-of-Thought concept and provides minimalistic solution for zero-shot inferences. For example, you can exploit the concept of `aspect-opininon-reason` chain from  [THOR-ISA](https://github.com/scofield7419/THOR-ISA) to adapt it for attitude extraction.
 * **FaiMA** [[github]](https://github.com/SupritYoung/FaiMA)
     * Framework that integrates graph-based models and linguistics, with a core feature aimed at in-context learning for multi-domain SA.
-* **THOR-ISA** [[github]](https://github.com/scofield7419/THOR-ISA)
-    * Propt-based framework for setiment Analysis that based on Chain-of-Though concept for obtaining the result sentiment class out of the LLM system.	
+* **Reasoning-for-Sentiment-Analysis-Framework** [[github]](https://github.com/nicolay-r/Reasoning-for-Sentiment-Analysis-Framework)
+    * This frameworks repesent a reforget 🛠️ version of the `THOR-ISA` framework: 
+    * **THOR-ISA** [[github]](https://github.com/scofield7419/THOR-ISA)
+        * Propt-based framework for setiment Analysis that based on Chain-of-Though concept for obtaining the result sentiment class out of the LLM system.	
 * **OpenPrompt** [[github]](https://github.com/thunlp/OpenPrompt)
     * Enhanced tool for automatic completion of the prompt via the provided resources.	
 * **ChatGPT** [[site]](https://openai.com/blog/chatgpt/)
