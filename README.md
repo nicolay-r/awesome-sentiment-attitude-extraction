@@ -116,15 +116,15 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 * Reverse Thinking Makes LLMs Stronger Reasoners [[paper]](https://arxiv.org/pdf/2411.19865.pdf) [[X/twitter]](https://x.com/cyjustinchen/status/1863636652264149212)
     * `Concept: Using referse thinking in sentiment analysis by treating this problem as NLI through the explanations. Note requires explanations like for example` [RuOpinionNE-2024](https://github.com/dialogue-evaluation/RuOpinionNE-2024)
     * Justin Chih-Yao Chen, Zifeng Wang, Hamid Palangi, Rujun Han, Sayna Ebrahimi, Long Le, Vincent Perot, Swaroop Mishra, Mohit Bansal, Chen-Yu Lee, Tomas Pfister
-    * ArXiV Pre-print 2024
+    * **ArXiV Pre-print 2024**
 * Stream of Search (SoS): Learning to Search in Language [[paper]](https://arxiv.org/pdf/2404.03683) [[review]](https://openreview.net/forum?id=2cop2jmQVL#discussion) [[X/Twitter]](https://x.com/_philschmid/status/1847565606964646077?t=a75iyBMH2m8vZsAbM6-Z6Q&s=19)
     * `Concept: language models can learn to search in language, autonomously using and discovering new search strategies to solve problems.` from here [[review]](https://openreview.net/forum?id=2cop2jmQVL#discussion)
     * Kanishk Gandhi, Denise Lee, Gabriel Grand, Muxin Liu, Winson Cheng, Archit Sharma, Noah D. Goodman
-    * COLM 2024 [Published 10th July]
+    * **COLM 2024** (Published: 10th July)
 * STaR: Bootstrapping Reasoning With Reasoning [[paper]](https://arxiv.org/pdf/2203.14465) [[X/Twitter]](https://x.com/_philschmid/status/1847908923203825709?t=PhyQUdNwIPdoa9xGCjxKbA&s=19) [[review]](https://openreview.net/forum?id=_3ELRdg2sgI)
     * `Concept: STaR allows a language model's "chain-of-thought" rationale generation ability to be bootstrapped from a few initial few-shot rationales on datasets without rationales.` from here [[review]](https://openreview.net/forum?id=_3ELRdg2sgI)
     * Eric Zelikman, Yuhuai Wu, Jesse Mu, Noah D. Goodman
-    * NerIPS 2022
+    * **NerIPS 2022**
 
 [Back to Top](#contents)
 
