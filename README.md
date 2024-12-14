@@ -24,6 +24,7 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
 * [Annotation Schemas](#annotation-schemas)
 * [Papers](#papers)
     * [Large Language Models](#large-language-models)
+      * [Reasoning](#reasoning)
       * [Fact-Checking Adaptation](#fact-checking-adaptation)
       * [Chain-of-Thought](#chain-of-thought)
       * [Conversational Systems](#conversational-systems)
