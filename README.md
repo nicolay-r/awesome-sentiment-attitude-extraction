@@ -145,6 +145,9 @@ Contributing: Please feel free to make *pull requests* or contact me [[contacts]
     * **EMNLP-2024**
 
 #### Chain-of-Thought
+* Reassessing the Role of Chain-of-Thought in Sentiment Analysis: Insights and Limitations
+  [[paper]](https://arxiv.org/abs/2501.08641)
+    * Kaiyuan Zheng, Qinghua Zhao, Lei Li
 * [FaiMA](https://github.com/SupritYoung/FaiMA): Feature-aware In-context Learning for Multi-domain
 Aspect-based Sentiment Analysis 
 [[paper]](https://arxiv.org/pdf/2403.01063.pdf)
